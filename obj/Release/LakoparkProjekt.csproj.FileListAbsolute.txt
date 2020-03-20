@@ -1,0 +1,10 @@
+C:\Users\Norbi\source\repos\LakoparkProjekt\obj\Release\LakoparkProjekt.csprojAssemblyReference.cache
+C:\Users\Norbi\source\repos\LakoparkProjekt\bin\Release\LakoparkProjekt.exe.config
+C:\Users\Norbi\source\repos\LakoparkProjekt\bin\Release\LakoparkProjekt.exe
+C:\Users\Norbi\source\repos\LakoparkProjekt\bin\Release\LakoparkProjekt.pdb
+C:\Users\Norbi\source\repos\LakoparkProjekt\obj\Release\LakoparkProjekt.felulet.resources
+C:\Users\Norbi\source\repos\LakoparkProjekt\obj\Release\LakoparkProjekt.statisztika.resources
+C:\Users\Norbi\source\repos\LakoparkProjekt\obj\Release\LakoparkProjekt.Properties.Resources.resources
+C:\Users\Norbi\source\repos\LakoparkProjekt\obj\Release\LakoparkProjekt.csproj.GenerateResource.cache
+C:\Users\Norbi\source\repos\LakoparkProjekt\obj\Release\LakoparkProjekt.exe
+C:\Users\Norbi\source\repos\LakoparkProjekt\obj\Release\LakoparkProjekt.pdb

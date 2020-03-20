@@ -1,4 +1,4 @@
-# LatvanyossagokApplication
+# LakoparkProjekt
 |||
 |--|--|
 |Tantárgy|Szoftverfejlesztés gyakorlat: C#|
